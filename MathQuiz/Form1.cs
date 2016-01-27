@@ -32,7 +32,7 @@ namespace MathQuiz
         int div1;
         int div2;
 
-        // mark the time left
+        // mark the time left;
         int timeLeft;
         
         // start the quiz, fill the problems with addend1, adden2
